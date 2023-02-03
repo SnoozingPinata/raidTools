@@ -1,5 +1,4 @@
 import texttable
-import datetime
 import pyperclip
 
 
