@@ -28,7 +28,7 @@ if __name__ == "__main__":
     table_data = [
         get_yogg_p2_portal_assignment_table_header(),
         # 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-        ["flex", "stab", "octane", "sordauq", "xinq", "gunnhaver", "gardenslug", "enhance", "drubot", "healmut"],
+        ["flex", "stab", "octane", "hungswanson", "dreadkill", "gunnhaver", "cowboi", "unbrandable", "aka", "healmut"],
     ]
 
     table = get_table(table_data)

@@ -47,36 +47,39 @@ When heart is open:
 
 # Yogg-Saron
 
+Pre-Fight:
+  - Look at portal assignments chart.
+  - Portal Group:
+    - Memorize where your portal will spawn.
+    - Memorize where your assigned target is inside of the portal room.
+
 Phase 1: 
-  - Don't touch clouds. 
-  - Adds do AOE when they die, don't get gibbed by multiple adds dying at the same time. 
-  - DON'T TOUCH CLOUDS!
+  - Don't touch clouds - not a dps race, just don't touch the clouds and it will work. 
+  - Ranged stack on Orange.
+  - Melee, if you can't dodge clouds, stack on orange.
 
 Phase 2: 
-  - Look for "Sanity" debuff, don't let this get to 0. Stand in green light if it gets low or you have down time.
   - Portal group:
-    - Go into your assigned portal as soon as it spawns.
-    - Don't look at skeletons - your sanity will drop.
-    - Kill tentacles.
+    - Get ready to enter your portal. You need to be standing on it when it spawns. 
+    - Listen for RL call to enter portal.
+    - Don't look at skulls, may have to move backwards/sideways to get to your assigned target.
+    - Kill your target first, then kill other tentacles.
     - DPS brain.
-    - Take the portal out within 60 seconds or you die.
+    - Take any portal out when RL calls to leave.
+    - Check sanity, stand in green light if it's low.
+    - Stack in front of boss with raid.
   - Outside Group:
-    - melee:
-      - Kill constrictor tentacles (1st prio)
-      - Kill corruptor tentacles (2nd prio)
-      - Kill crusher tentacles (big ones) only when they are stunned by portal group.
-    - ranged:
-      - kill crusher tentacles (1st prio)
-      - kill constrictor tentacles (2nd prio)
-      - kill corruptor tentacles
-  - Stay 10 yards away from players with "Malady of the Mind" on them.
-  - Stay within 20 yards of teammate if you have a brain link. You can enter portal (if you are assigned) to break the link.
+    - Stack on orange.
+    - Kill skull.
+    - Listen for RL calls.
+    - Check sanity, stand in green light if it's low.
+    - Stack in front of boss with raid.
   - Don't touch green lasers!
 
 Phase 3:
   - Kill adds.
-  - Look away from boss when he does electric lightning.
-  - Don't let your sanity debuff drop to 0. Stand in green light if it gets low.
+  - Turn your character away from boss when he does purple lightning.
+  - Listen for RL calls to stand in green light.
 
 
 
